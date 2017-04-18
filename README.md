@@ -1,2 +1,2 @@
 # SSVD
-Implement biclustering via sparse singular value decomposition
+Implementation of biclustering via sparse singular value decomposition.
