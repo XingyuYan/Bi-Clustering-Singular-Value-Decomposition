@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 
 
 setup(
-      name='SSVD',
+      name='ssvd',
       version=1.0,
-      url='https://github.com/XingyuYan/SSVD',
+      url='https://github.com/XingyuYan/SSVD/ssvd',
       description='Implementation of Sparse Singular Value Decomposition',
       # long_description=open('README').read(),
       author='Xinyu Yan, Yijun Jiang',
@@ -19,7 +19,7 @@ setup(
       'console_scripts': ['scrapy = scrapy.cmdline:execute']
       },
       classifiers=[
-                   'Framework :: SSVD',
+                   'Framework :: ssvd',
                    'Development Status :: 5 - Production/Stable',
                    'Environment :: Console',
                    'Intended Audience :: Developers',
