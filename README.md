@@ -9,7 +9,7 @@ gamv = weight parameter in adaptive lasso for the right singular vector
 merr = threshold to decide convergence
 niter = maximum number of iterations
 
-Output:
+Output variables:
 u = left sparse singular vector
 v = right sparse singular vector
 s = singular values
