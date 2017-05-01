@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(
       name='SSVD',
       version=1.0,
-      #url='http://scrapy.org',
+      url='https://github.com/XingyuYan/SSVD',
       description='Implementation of Sparse Singular Value Decomposition',
       # long_description=open('README').read(),
       author='Xinyu Yan, Yijun Jiang',
