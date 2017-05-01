@@ -1,6 +1,7 @@
 # SSVD
 
 1. SSVD 
+
 Input variables: 
 X = n by d matrix
 gamu = weight parameter in adaptive lasso for the left singular vector
