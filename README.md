@@ -1,6 +1,8 @@
-# SSVD
+ # SSVD
 
-We implemented sparse singular value deomposition (SSVD) in the package `biclustering`. In this repository, simulation, an example on real data, code optimization, and a report are included. 
+We implemented sparse singular value deomposition (SSVD) in the package `biclustering` where the source code is given. The package can be installed by "!pip install git+git://github.com/XingyuYan/biclustering.git" in Jupyter notebook.
+
+In this repository, simulation, an example on real data, code optimization, and a report are included. 
 
 1. Simulation
 
