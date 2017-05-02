@@ -1,6 +1,6 @@
 # SSVD
 
-We implemented sparse singular value deomposition (SSVD) in the package \textit{biclustering}. In this repository, simulation, an example on real data, code optimization, and a report are included. 
+We implemented sparse singular value deomposition (SSVD) in the package `biclustering`. In this repository, simulation, an example on real data, code optimization, and a report are included. 
 
 1. Simulation
 
