@@ -1,6 +1,6 @@
 # SSVD
 
-This is the final project for STA 663 (Statistical Computation) at Duke University. We (Xingyu and Yijun)implemented sparse singular value deomposition (SSVD) in the package `biclustering` where the source code is given. The package can be installed by `!pip install git+git://github.com/XingyuYan/biclustering.git` in Jupyter notebook.
+This is the final project for STA 663 (Statistical Computation) at Duke University. We (Xingyu and Yijun) implemented sparse singular value deomposition (SSVD) in the package `biclustering` where the source code is given. The package can be installed by `!pip install git+git://github.com/XingyuYan/biclustering.git` in Jupyter notebook.
 
 In this repository, simulation, an example on real data, code optimization, and a report are included. 
 
